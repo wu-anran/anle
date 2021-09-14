@@ -9,7 +9,7 @@ spring:
     name: eurekaclient
   rabbitmq:
     host: localhost
-    port: 5672
+    port: 15672
     username: guest
   sleuth:
     sampler:
